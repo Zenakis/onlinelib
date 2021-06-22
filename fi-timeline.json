@@ -1,0 +1,51 @@
+{
+    "2019": [
+        {
+            "title": "AUG Memorabilia",
+            "image" : "https://dummyimage.com/600x400/000/fff",
+            "subtitle": "MAD MILK",
+            "description": "4月與Red Bull賽車手Mad Milk合作，改裝作品Lamboghini Huracan於Goodwood Festival of Speed 英國古德伍德極速賽車嘉年華上正式亮相，其改裝過程被Red Bull拍攝成為紀錄片。",
+            "link": null,
+            "note": "Note: 2019-04"
+        },
+
+        {
+            "title": "MAY Memorabilia",
+            "image" : null,
+            "subtitle": "Fi EXHAUST x EINMS",
+            "description": "5月與品牌EINMS合作開發BMW、Porsche換檔撥片產品",
+            "link": "",
+            "note": "Note: 2019-05"
+        },
+
+        {
+            "title": "JUNE Memorabilia",
+            "image": "",
+            "subtitle": "Jimny Fi EXHAUST",
+            "description": "6月開發世界第一套Suzuki Jimny 側排排氣產品，英國TOP Gear汽車媒體專文報導。",
+            "link": "https://www.google.com",
+            "note": "Note: 2019-06"
+        },
+
+        {
+            "title": "NOV Memorabilia",
+            "image": "",
+            "subtitle": "Titanium",
+            "description": "11月成立以鈦合金排氣為主的副品牌Fi EXHAUST Signature Series。",
+            "link": "",
+            "note": "Note: 2019-11"
+        },
+
+        {
+            "title": "DEC Memorabilia",
+            "image": "",
+            "subtitle": "SEMA",
+            "description": "12月參展於拉斯維加斯的SEMA 2020世界最大改裝車展，成為車展焦點明星改裝車Supra 2020 x The Stradman x Fi EXHAUST。",
+            "link": "http://www.youtube.com",
+            "note": "Note: 2019-12"
+        }
+    ],
+    "2020" : [
+        
+    ]
+}
